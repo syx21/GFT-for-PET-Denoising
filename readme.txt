@@ -2,8 +2,6 @@ Matlab code for Graph Filtering Approach to PET Image Denoising
 
 -------------------------
 shengyuxia@wust.edu.cn; 
-chaili@wust.edu.cn;
-jingxinzhang@swin.edu.au
 21.8.2019
 
 -------------------------
